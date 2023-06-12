@@ -1,4 +1,4 @@
-package com.gmail.voronovskyi.yaroslav.aitelegrambot.CurlyTourBot.model;
+package com.gmail.voronovskyi.yaroslav.curlytourbot.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
