@@ -14,6 +14,7 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 
 @Data
 @Component
+@EqualsAndHashCode(callSuper = false)
 @PropertySource("telegram.properties")
 public class CurlyTourBot extends TelegramLongPollingBot {
 
